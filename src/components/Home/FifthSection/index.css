@@ -1,0 +1,74 @@
+.row.fifth {
+    background-color: #0D28A6;
+    height: 326px;
+    border-radius: 18px;
+    margin-bottom: 100px;
+    display: grid;
+}
+
+.first-blue-text {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: white;
+}
+
+.second-blue-text {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}
+
+.text-second {
+    width: 468px;
+    margin-bottom: 52px;
+}
+
+.blue-container {
+    margin-top: 64px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn.btn-success.second {
+    width: 160px;
+    align-items: center;
+    justify-content: center;
+}
+
+.col.fourth {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 720px) {
+    .row.fifth {
+    background-color: #0D28A6;
+    height: 326px;
+    border-radius: 18px;
+    margin-bottom: 100px;
+    display: grid;
+    margin-left: 2px;
+    margin-right: 2px;
+    }
+    .first-blue-text {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    line-height: 150%;
+    color: white;
+}
+}

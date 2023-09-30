@@ -1,0 +1,39 @@
+.footer-one {
+    width: 268px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.col {
+    display: grid;
+    row-gap: 16px;
+}
+
+.social {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+    margin-right: 16px;
+    width: 32px;
+    height: 32px;
+}
+
+.social-icons {
+    // border: 1px solid red;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.blue-box {
+    width: 100px;
+    height: 34px;
+    background-color: blue;
+}

@@ -1,0 +1,47 @@
+.btn.btn-success.select-car {
+    margin: 24px;
+}
+
+.card.car {
+    height: 478px;
+    border-color: lightgrey;
+    box-shadow: 0 0 9px lightgrey;
+}
+.price-car {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    width: 270px;
+    height: 160px;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.carimage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 31px 17px 31px 16px;
+}
+
+.desc {
+    width: 301px;
+    height: 60px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* range style */
+.rs-picker-menu .rs-calendar .rs-calendar-table-cell-content {
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 21px;
+    display: inline-block;
+}
